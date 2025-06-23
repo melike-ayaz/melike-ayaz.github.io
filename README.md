@@ -1,1 +1,0 @@
-https://yousinix.github.io/portfolYOU/docs/
