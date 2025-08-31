@@ -2593,3 +2593,12 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.figma img {
+  filter: brightness(0) invert(0.5);
+  transition: filter 0.2s ease;
+}
+
+.linkedin:hover .figma img {
+  filter: brightness(0) invert(1);
+}
